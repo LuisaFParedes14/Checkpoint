@@ -11,5 +11,8 @@ Luisa Fernanda Paredes Erazo
 -Daniel Lopez
 
 -Xochitl Avila
+<<<<<<< HEAD
 
 -Xochitl Avila2
+=======
+>>>>>>> 5702b8d27a446904452220cfd0001100152d5c2d
