@@ -1,1 +1,3 @@
 # Checkpoint
+
+- Adriana Díaz
